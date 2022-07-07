@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+   overflow-x:hidden ;
+}
+.logo{
+    height: 80px;
+    width: 100px;
+    position: relative;
+    width: 230px;
+    height: 170px;
+
+}
+#logo-img1{
+    position: relative;
+ top: 0px;
+left: 40px;
+width: 12rem;
+height:10rem;
+}
+li{
+    margin-left: 30px;
+    float: left;
+    list-style-type: none;
+    margin: 1;
+    padding: 0.1em;
+
+}
+li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.head-list1{
+     font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+     font-size: 50;
+     color: #ffffff;
+     margin-top: -5.4rem;
+     font-weight: 500;
+     margin-left: 205px;
+}
+.head-list2{
+    font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:#ffffff;
+    position: relative;
+    left: 72rem;
+    bottom: 1rem;
+}
+
+.section1{
+    background-image: url(./Assests/Homepage_new.webp);
+    background-size: 100% 662px;
+    height: 662px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+.sect1-desc{
+    position: relative;
+    top: 17rem;
+    left: 3rem;
+}
+#sect1-first-head{
+    font: 20px/38px D-DIN-Medium,Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#sect1-second-head{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+}
+.watch-1-btn{
+width: 11rem;
+margin-top: 30px;
+margin-left: 10px;
+height: 3rem;
+color: #ffffff;
+font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+font-size: 13px;
+font-weight: 500;
+border:2px solid #ffffff;
+background-color: transparent;
+}
+.watch-1-btn:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.section2{
+ background-image: url(./Assests/Homepage_Desktop.webp);
+    background-size: 100% 662px;
+    height: 662px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+.sect2-desc{
+    position: relative;
+    top: 21rem;
+    left: 3rem;
+}
+#sect2-first-head{
+    font: 20px/38px D-DIN-Medium,Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#sect2-second-head{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+}
+.rewatch-2-btn{
+width: 11rem;
+margin-top: 30px;
+margin-left: 10px;
+height: 3rem;
+color: #ffffff;
+font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+font-size: 13px;
+font-weight: 500;
+border:2px solid #ffffff;
+background-color: transparent;
+}
+.rewatch-2-btn:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.section3{
+    background-image: url(./Assests/Homepage_Desktop2.webp);
+    background-size: 100% 662px;
+    height: 662px;
+    margin-top: -4px;
+}
+
+.sect3-desc{
+    position: relative;
+    top: 17rem;
+    color: #ffffff;
+    left: 3rem;
+}
+#sect3-first-head{
+    font: 20px/38px D-DIN-Medium,Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#sect3-second-head{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+}
+.rewatch-3-btn{
+width: 11rem;
+margin-top: 30px;
+margin-left: 10px;
+height: 3rem;
+color: #ffffff;
+font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+font-size: 13px;
+font-weight: 500;
+border:2px solid #ffffff;
+background-color: transparent;
+}
+.rewatch-3-btn:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.section4{
+    background-image: url(./Assests/home4.webp);
+    background-size: 100% 662px;
+    height: 662px;
+    margin-top: -4px;
+}
+.sect4-desc{
+    position: relative;
+    top: 21rem;
+    color: #ffffff;
+    left: 3rem;
+}
+#sect4-second-head{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+}
+.learn-4-btn{
+width: 11rem;
+margin-top: 30px;
+margin-left: 10px;
+height: 3rem;
+color: #ffffff;
+font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+font-size: 13px;
+font-weight: 500;
+border:2px solid #ffffff;
+background-color: transparent;
+}
+.learn-4-btn:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.section5{
+    background-image: url(./Assests/hls-resized-2.webp);
+    background-size: 100% 662px;
+    height: 662px;
+    margin-top: -4px;
+}
+.sect5-desc{
+    position: relative;
+    top: 21rem;
+    color: #ffffff;
+    left: 3rem;
+}
+#sect5-second-head{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+}
+.learn-5-btn{
+width: 11rem;
+margin-top: 30px;
+margin-left: 10px;
+height: 3rem;
+color: #ffffff;
+font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+font-size: 13px;
+font-weight: 500;
+border:2px solid #ffffff;
+background-color: transparent;
+}
+.learn-5-btn:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.footer{
+    height: 120px;
+    margin-top: -4px;
+    width: 100%;
+    background-color: black;
+}
+#foot-list{
+    margin-left: 270px;
+    margin-top: 45px;
+    color: #ffffff;
+    font: 12px/18px D-DIN-Bold,Arial,Verdana,sans-serif;
+    
+    font-size: 10px;
+    font-weight: 400;
+}
+#foot-corp{
+    color: #979797;
+    font-family: D-DIN-Regular;
+}
+/* #foot-1,#foot-2,#foot-3,#foot-4,#foot-5,#foot-6,#foot-7:hover{
+color: #979797;
+} */
